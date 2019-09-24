@@ -1,0 +1,3 @@
+Test Name, Training Sample Count, Total Trial count, One Trial Count, Total Match Count, Max Match Count, Min Match Count, Total Check Time, Total Exec Time, Min Check Time, Max Check Time
+Stuff,1,54,18,42,16,13,2.7604382038116455,2.7604382038116455,0.03587651252746582,0.06279563903808594
+Stuff,2,27,9,23,8,7,2.575925588607788,2.577922821044922,0.07139849662780762,0.11266374588012695
